@@ -1,6 +1,6 @@
 // Set today's password and message
 let correctPassword = "102324";  // You can change this each day
-let messageToShow = "....pst. Hey I love you\n\nWith all my love,\nSydney";
+let messageToShow = "....pst. Hey I love you\n\nWith all my heart,\nSydney";
 
 function checkPassword() {
   let enteredPassword = document.getElementById('passwordInput').value;
