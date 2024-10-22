@@ -8,7 +8,7 @@ function checkPassword() {
   
   if (enteredPassword === correctPassword) {
     messageElement.textContent = messageToShow;
-    <embed src="https://content.codecademy.com/courses/SemanticHTML/dog-on-beach.gif"></embed>
+   
     messageElement.style.color = "green";
   } else {
     messageElement.textContent = "Incorrect password. Please try again.";
