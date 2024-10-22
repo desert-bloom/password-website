@@ -1,5 +1,5 @@
 // Set today's password and message
-let correctPassword = "10232024";  // You can change this each day
+let correctPassword = "password";  // You can change this each day
 let messageToShow = "....pst. Hey I love you\n\nWith all my heart,\nSydney";
 
 function checkPassword() {
